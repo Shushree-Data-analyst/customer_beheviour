@@ -89,5 +89,7 @@ This project demonstrates an end-to-end analytics workflow from raw data cleanin
 ## Author
 **Shushree Pranati Swain**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+## 🔗 Connect with Me
+
+👉 [LinkedIn Profile](https://www.linkedin.com/in/shushree-swain)
+👉 [GitHub Profile](https://github.com/Shushree-Data-analyst)
